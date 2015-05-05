@@ -3,3 +3,26 @@
 Here we maintain a list of ideas that we wish to mention/show/explain
 in a talk of the live-demo style.
 
+Currently this list is rather unordered.
+
+** live programming
+
+** immutability
+*** time travel
+*** combining with reacr
+
+** REPL
+*** what is special about a LISP REPL
+
+** data-driven programming
+*** handling app state
+*** DSLs as data
+**** Hiccup
+**** Bidi / Silk / ...
+
+** CSP
+
+** making a complex system simple (and restartable)
+*** a declerative spec of component dependencies
+
+** a unified approach to client (cljs) and server (clj)

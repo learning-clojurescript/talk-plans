@@ -1,5 +1,5 @@
 * Talk-plans
 Here we maintain various plans for our talks.
 
-[[ideas-to-mention-in-demo.org][Ideas to mention in demo]]
+- [[ideas-to-mention-in-demo.org][Ideas to mention in demo]]
 
