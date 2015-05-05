@@ -1,0 +1,5 @@
+* Ideas to mention in demo
+
+Here we maintain a list of ideas that we wish to mention/show/explain
+in a talk of the live-demo style.
+
